@@ -15,7 +15,7 @@
 
 * **RTS** & **CTS** - This helps to define that both the sender and receiver are available for communication. This is a *Hardware Flow Control* implementation.
 
-![image](images\null-modem-rs232.JPG)
+![image](images/null-modem-rs232.JPG)
 
 Note:
 * *XON and XOFF* - *Software Flow control* to start the communication.
